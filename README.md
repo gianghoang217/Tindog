@@ -1,1 +1,1 @@
-html/css practice with https://gianghoang217.github.io/Tindog/
+html/css practice https://gianghoang217.github.io/Tindog/
